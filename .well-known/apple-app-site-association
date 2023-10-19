@@ -5,7 +5,7 @@
       "appID": "LCBDY3U9B4.com.att.tv.youi",
       "components":[
          {
-            "paths": ["*"]
+             "/":"/google/*"
          }
       ]
     }]
