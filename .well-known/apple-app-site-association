@@ -2,8 +2,12 @@
   "applinks": {
     "apps": [],
     "details": [{
-      "appID": "LCBDY3U9B4.com.att.tv.youi",
-      "paths": ["*"]
+      "appIDs": ["LCBDY3U9B4.com.att.tv.youi"],
+      "components":[
+         {
+            "/":"/google/link/*"
+         }
+      ]
     }]
   }
 }
