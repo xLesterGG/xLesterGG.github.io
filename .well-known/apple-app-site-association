@@ -5,8 +5,10 @@
       "appIDs": ["LCBDY3U9B4.com.att.tv.youi","7QP83HJ33U.com.att.tv"],
       "components":[
          {
-             "/":"/google/*",
-             "/": "/play/*",
+             "/":"/google/*"
+         },
+         {
+             "/": "/play/*"
          }
       ]
     }]
